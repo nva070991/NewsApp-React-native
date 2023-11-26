@@ -26,11 +26,8 @@ const styles = StyleSheet.create({
     height: 300
   },
   full: {
-    fontFamily: 'mt-light',
     fontSize: 16,
-    textAlign: 'center',
     marginTop: 20,
-    color: '#f55151'
   },
   header: {
     fontSize: 25,
